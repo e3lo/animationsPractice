@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  overflow-x: hidden;
+}
+
+.section {
+  padding: 0;
+}
+
+.full-size {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  background-color: #faf9ed;
+  align-items: center;
+}
+.full-size .header {
+  margin: 20vw;
+  max-width: 800px;
+}
+.full-size h1 {
+  font-size: 6em;
+  font-weight: 700;
+  margin: 0;
+}
+
+.scroll-capture {
+  position: absolute;
+}/*# sourceMappingURL=main.css.map */
